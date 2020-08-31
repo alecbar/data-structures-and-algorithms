@@ -1,2 +1,2 @@
-# Data Structures and Aglorithsm Review 
-A work in progress, in Python 
+# Data Structures and Algorithms Review 
+A work in progress
